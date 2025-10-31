@@ -4,33 +4,10 @@
    data-name="Laag 1"
    viewBox="0 0 950 950"
    version="1.1"
-   sodipodi:docname="Duiker1_blauw-03-03.svg"
    width="950"
    height="950"
-   inkscape:version="1.4.2 (f4327f4, 2025-05-13)"
-   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
-   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
    xmlns="http://www.w3.org/2000/svg"
    xmlns:svg="http://www.w3.org/2000/svg">
-  <sodipodi:namedview
-     id="namedview17"
-     pagecolor="#ffffff"
-     bordercolor="#000000"
-     borderopacity="0.25"
-     inkscape:showpageshadow="2"
-     inkscape:pageopacity="0.0"
-     inkscape:pagecheckerboard="0"
-     inkscape:deskcolor="#d1d1d1"
-     showborder="true"
-     inkscape:zoom="0.67908309"
-     inkscape:cx="451.34388"
-     inkscape:cy="466.06962"
-     inkscape:window-width="1920"
-     inkscape:window-height="1191"
-     inkscape:window-x="-9"
-     inkscape:window-y="-9"
-     inkscape:window-maximized="1"
-     inkscape:current-layer="Laag_1" />
   <defs
      id="defs1">
     <style
@@ -49,8 +26,7 @@
   <path
      class="cls-2"
      d="m 215.18997,154.51008 a 18.92,18.92 0 0 0 -14.5,16.35 c -0.67,5.2 1.05,11.55 4.05,15 a 18,18 0 0 0 9.83,5.58 28.72,28.72 0 0 0 9.25,0 c 7.47,-1.55 13.4,-6.4 15.5,-12.7 2,-6 -0.23,-14.6 -5,-19 a 22.38,22.38 0 0 0 -8.5,-4.92 26,26 0 0 0 -10.63,-0.31 z"
-     id="path2"
-     inkscape:label="path2" />
+     id="path2" />
   <path
      class="cls-2"
      d="m 171.76997,196.54008 c -4.18,0.6 -7.93,4.42 -8.83,9 a 16,16 0 0 0 0.33,6.3 c 0.42,1.13 4.47,4.95 6.12,5.75 1.8,0.88 6.08,1 8.3,0.23 4.1,-1.38 6.28,-4.55 6.28,-9.1 a 13.13,13.13 0 0 0 -1.5,-6.38 14.27,14.27 0 0 0 -3.65,-4.22 10.36,10.36 0 0 0 -7.05,-1.58 z"
