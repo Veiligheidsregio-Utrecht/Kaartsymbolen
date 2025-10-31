@@ -1,0 +1,158 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32px"
+   height="32px"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="Bron_Blusriool_Inactief_v2.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="23.84375"
+     inkscape:cx="6.9410223"
+     inkscape:cy="16"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer3"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true"
+     showguides="false" />
+  <defs
+     id="defs5067">
+    <filter
+       inkscape:label="Fill Background"
+       inkscape:menu="Fill and Transparency"
+       inkscape:menu-tooltip="Adds a colorizable opaque background"
+       style="color-interpolation-filters:sRGB;"
+       id="filter5678">
+      <feFlood
+         result="result1"
+         flood-color="rgb(200,55,55)"
+         flood-opacity="1"
+         id="feFlood5666" />
+      <feImage
+         xlink:href=""
+         result="result2"
+         id="feImage5668" />
+      <feBlend
+         result="result4"
+         in2="result1"
+         mode="multiply"
+         id="feBlend5670" />
+      <feMerge
+         result="result3"
+         id="feMerge5676">
+        <feMergeNode
+           in="result1"
+           id="feMergeNode5672" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode5674" />
+      </feMerge>
+    </filter>
+  </defs>
+  <metadata
+     id="metadata5070">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Laag 1"
+     style="display:inline">
+    <path
+       style="opacity:1;fill:#ffffff;fill-opacity:0.98905113;fill-rule:nonzero;stroke:#1f78b4;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path5626"
+       sodipodi:type="arc"
+       sodipodi:cx="16"
+       sodipodi:cy="15.999998"
+       sodipodi:rx="15"
+       sodipodi:ry="15.000002"
+       sodipodi:start="4.7130522"
+       sodipodi:end="4.711429"
+       sodipodi:open="true"
+       d="M 16.009948,0.99999948 A 15,15.000002 0 0 1 31,16.003859 15,15.000002 0 0 1 16.002226,31 15,15.000002 0 0 1 1.0000023,16.008311 15,15.000002 0 0 1 15.9856,1.0000031" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer3"
+     inkscape:label="Laag 3"
+     style="display:inline">
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.10291576px;line-height:0.40000001;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f78b4;fill-opacity:1;stroke:none;stroke-width:0.19999999;stroke-miterlimit:4;stroke-dasharray:none;"
+       x="1.7693243"
+       y="22.345642"
+       id="text5702"
+       transform="scale(1.0451619,0.95678956)"><tspan
+         sodipodi:role="line"
+         x="1.7693243"
+         y="22.345642"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.28043175px;line-height:0.40000001;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';fill:#1f78b4;fill-opacity:1;stroke:#000000;stroke-width:0.19999999;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         id="tspan6268">RIOOL</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:12.13271046px;line-height:0.40000001;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#1f78b4;fill-opacity:1;stroke:none;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;"
+       x="4.160357"
+       y="13.982294"
+       id="text5702-0"
+       transform="scale(1.0450327,0.95690785)"><tspan
+         sodipodi:role="line"
+         x="4.160357"
+         y="13.982294"
+         style="font-style:normal;font-variant:normal;font-weight:bold;font-stretch:normal;font-size:8.30081654px;line-height:0.40000001;font-family:Tahoma;-inkscape-font-specification:'Tahoma Bold';fill:#1f78b4;fill-opacity:1;stroke:#000000;stroke-width:0.2;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;"
+         id="tspan6268-2">BLUS</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-style:normal;font-weight:normal;font-size:40px;line-height:1.25;font-family:sans-serif;letter-spacing:0px;word-spacing:0px;fill:#000000;fill-opacity:1;stroke:none"
+       x="46.678898"
+       y="16.985582"
+       id="text4778"><tspan
+         sodipodi:role="line"
+         id="tspan4776"
+         x="46.678898"
+         y="53.478794" /></text>
+    <path
+       style="fill:none;stroke:#e10000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 31.798579,0.19707658 C 21.109684,10.999988 11.708006,20.511551 0.505099,31.495"
+       id="path4531"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="fill:none;stroke:#e10000;stroke-width:2;stroke-linecap:round;stroke-linejoin:miter;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 0.50495678,0.50560787 C 11.206445,11.095184 20.629133,20.409895 31.494456,31.494788"
+       id="path4531-4"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc"
+       inkscape:transform-center-x="-21.722339"
+       inkscape:transform-center-y="-7.7302681" />
+  </g>
+</svg>

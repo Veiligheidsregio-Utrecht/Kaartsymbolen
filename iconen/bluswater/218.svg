@@ -1,0 +1,121 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!-- Created with Inkscape (http://www.inkscape.org/) -->
+
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:xlink="http://www.w3.org/1999/xlink"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   width="32px"
+   height="32px"
+   viewBox="0 0 32 32"
+   version="1.1"
+   id="SVGRoot"
+   inkscape:version="0.92.2 (5c3e80d, 2017-08-06)"
+   sodipodi:docname="Open_water_v2.svg">
+  <sodipodi:namedview
+     id="base"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageopacity="0.0"
+     inkscape:pageshadow="2"
+     inkscape:zoom="23.84375"
+     inkscape:cx="-11.176933"
+     inkscape:cy="17.677588"
+     inkscape:document-units="px"
+     inkscape:current-layer="layer2"
+     showgrid="false"
+     inkscape:window-width="1920"
+     inkscape:window-height="986"
+     inkscape:window-x="-11"
+     inkscape:window-y="-11"
+     inkscape:window-maximized="1"
+     inkscape:grid-bbox="true" />
+  <defs
+     id="defs5067">
+    <filter
+       inkscape:label="Fill Background"
+       inkscape:menu="Fill and Transparency"
+       inkscape:menu-tooltip="Adds a colorizable opaque background"
+       style="color-interpolation-filters:sRGB;"
+       id="filter5678">
+      <feFlood
+         result="result1"
+         flood-color="rgb(200,55,55)"
+         flood-opacity="1"
+         id="feFlood5666" />
+      <feImage
+         xlink:href=""
+         result="result2"
+         id="feImage5668" />
+      <feBlend
+         result="result4"
+         in2="result1"
+         mode="multiply"
+         id="feBlend5670" />
+      <feMerge
+         result="result3"
+         id="feMerge5676">
+        <feMergeNode
+           in="result1"
+           id="feMergeNode5672" />
+        <feMergeNode
+           in="SourceGraphic"
+           id="feMergeNode5674" />
+      </feMerge>
+    </filter>
+  </defs>
+  <metadata
+     id="metadata5070">
+    <rdf:RDF>
+      <cc:Work
+         rdf:about="">
+        <dc:format>image/svg+xml</dc:format>
+        <dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
+        <dc:title></dc:title>
+      </cc:Work>
+    </rdf:RDF>
+  </metadata>
+  <g
+     id="layer1"
+     inkscape:groupmode="layer"
+     inkscape:label="Laag 1"
+     style="display:inline">
+    <path
+       style="display:inline;opacity:1;fill:#001000;fill-opacity:0;fill-rule:nonzero;stroke:#1f78b4;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1;paint-order:fill markers stroke"
+       id="path5626"
+       sodipodi:type="arc"
+       sodipodi:cx="15.998289"
+       sodipodi:cy="16.001709"
+       sodipodi:rx="15.026018"
+       sodipodi:ry="15.026021"
+       sodipodi:start="4.7130522"
+       sodipodi:end="4.711429"
+       sodipodi:open="true"
+       d="M 16.008255,0.97569129 A 15.026018,15.026021 0 0 1 31.024307,16.005577 15.026018,15.026021 0 0 1 16.000519,31.02773 15.026018,15.026021 0 0 1 0.97227327,16.010036 15.026018,15.026021 0 0 1 15.983864,0.9756949" />
+  </g>
+  <g
+     inkscape:groupmode="layer"
+     id="layer2"
+     inkscape:label="Laag 2"
+     style="display:inline">
+    <path
+       style="display:inline;fill:none;stroke:#1f78b4;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 3.6068153,11.239842 C 17.72929,22.6245 16.464065,3.7007905 28.435124,14.678898"
+       id="path14019"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+    <path
+       style="display:inline;fill:none;stroke:#1f78b4;stroke-width:2;stroke-linecap:butt;stroke-linejoin:round;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1"
+       d="M 3.3310396,17.123972 C 17.453514,28.50863 16.188289,9.58492 28.159348,20.563028"
+       id="path14019-2"
+       inkscape:connector-curvature="0"
+       sodipodi:nodetypes="cc" />
+  </g>
+</svg>
