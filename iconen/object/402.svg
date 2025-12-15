@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   xmlns:dc="http://purl.org/dc/elements/1.1/"
+   xmlns:cc="http://creativecommons.org/ns#"
+   xmlns:rdf="http://www.w3.org/1999/02/22-rdf-syntax-ns#"
+   xmlns:svg="http://www.w3.org/2000/svg"
+   xmlns="http://www.w3.org/2000/svg"
+   height="227.4828"
+   width="256.94257"
+   xml:space="preserve"
+   viewBox="0 0 256.94256 227.48281"
+   y="0px"
+   x="0px"
+   id="Laag_1"
+   version="1.1"><metadata
+     id="metadata184"><rdf:RDF><cc:Work
+         rdf:about=""><dc:format>image/svg+xml</dc:format><dc:type
+           rdf:resource="http://purl.org/dc/dcmitype/StillImage" /><dc:title></dc:title></cc:Work></rdf:RDF></metadata><defs
+     id="defs182" /><style
+     id="style151"
+     type="text/css">
+	.st0{fill:#F0E40B;stroke:#F0E40B;stroke-width:5;stroke-miterlimit:10;}
+	.st1{fill:#BFAD1B;stroke:#000000;stroke-width:6;stroke-miterlimit:10;}
+	.st2{fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10;}
+	.st3{fill:none;stroke:#1D1E1C;stroke-width:15;stroke-miterlimit:10;}
+	.st4{stroke:#000000;stroke-width:0.75;stroke-miterlimit:10;}
+</style><g
+     transform="translate(-292.43904,-183.91787)"
+     id="Laag_1_1_" /><path
+     style="fill:#f0e40b;stroke:#f0e40b;stroke-width:5;stroke-miterlimit:10"
+     id="path154"
+     d="m 128.56096,224.18213 -112.899996,0.8 c -10.1000004,0.1 -16.40000037,-10.8 -11.5000004,-19.5 l 55.7000004,-98.2 55.699996,-98.1999971 c 5,-8.79999996 17.6,-8.89999996 22.7,-0.2 l 57.2,97.3999971 57.2,97.4 c 5.1,8.7 -1.1,19.6 -11.2,19.7 z"
+     class="st0" /><path
+     style="fill:#bfad1b;stroke:#000000;stroke-width:6;stroke-miterlimit:10"
+     id="path156"
+     d="m 128.36096,110.48213 c -13.5,9.7 -27,19.3 -40.399996,29 13.499996,-9.7 26.999996,-19.3 40.399996,-29 13.6,8.6 27,17.3 40.6,25.8 -13.5,-8.5 -27,-17.2 -40.6,-25.8 z"
+     class="st1" /><polygon
+     transform="translate(-292.43904,-183.91787)"
+     style="fill:none;stroke:#000000;stroke-width:3;stroke-miterlimit:10"
+     id="polygon158"
+     points="432.4,292.4 450.3,304.3 450.3,276.7 432.4,276.7 "
+     class="st2" /><path
+     style="fill:none;stroke:#1d1e1c;stroke-width:15;stroke-miterlimit:10"
+     id="path160"
+     d="m 128.76096,207.08213 -99.299996,0.7 c -5,0 -8.2,-5.4 -5.8,-9.7 l 49.1,-87.3 49.499996,-88.099997 c 2.2,-4 8,-4 10.3,-0.1 l 50.8,87.399997 49.8,85.7 c 2.8,4.7 -0.6,10.7 -6.1,10.7 z"
+     class="st3" /><g
+     transform="translate(-292.43904,-183.91787)"
+     id="Laag_2_1_"><polygon
+       id="polygon162"
+       points="426,379.6 423.5,380 412.8,351.5 415.2,351.1 " /><ellipse
+       id="ellipse164"
+       ry="4.9000001"
+       rx="2.5999999"
+       cy="362"
+       cx="418.10001"
+       transform="matrix(0.9058,-0.4237,0.4237,0.9058,-114.0011,211.2422)" /><polygon
+       id="polygon166"
+       points="426.2,380.6 423.7,380.5 428.4,348.7 430.9,348.9 " /><ellipse
+       id="ellipse168"
+       ry="2.7"
+       rx="5.1999998"
+       cy="362.10001"
+       cx="427.70001"
+       transform="matrix(0.1769,-0.9842,0.9842,0.1769,-4.291,719.0021)" /><path
+       style="stroke:#000000;stroke-width:0.75;stroke-miterlimit:10"
+       id="path170"
+       d="m 414,350 v 0 c 3,-0.9 4.7,-4.2 3.8,-7.2 l -3.1,-9.8 c -0.9,-3 -4.2,-4.7 -7.2,-3.8 v 0 c -3,0.9 -4.7,4.2 -3.8,7.2 l 3.1,9.8 c 1,3 4.2,4.7 7.2,3.8 z"
+       class="st4" /><path
+       style="stroke:#000000;stroke-width:0.75;stroke-miterlimit:10"
+       id="path172"
+       d="m 430.3,347.6 v 0 c 2.5,0.5 5.1,-1.1 5.6,-3.6 l 1.8,-8.3 c 0.5,-2.5 -1.1,-5.1 -3.6,-5.6 v 0 c -2.5,-0.5 -5.1,1.1 -5.6,3.6 l -1.8,8.3 c -0.5,2.5 1.1,5 3.6,5.6 z"
+       class="st4" /><path
+       style="stroke:#000000;stroke-width:0.75;stroke-miterlimit:10"
+       id="path174"
+       d="m 403,315.1 c 1.9,4 3.8,8.9 5.4,14.4 1,3.5 1.7,6.8 2.2,9.8 -1.4,-3 -2.8,-6.4 -4.1,-10.2 -1.7,-5.1 -2.8,-9.9 -3.5,-14 z"
+       class="st4" /><path
+       style="stroke:#000000;stroke-width:0.75;stroke-miterlimit:10"
+       id="path176"
+       d="m 436.9,314.7 c -0.3,4.5 -0.8,9.7 -2.2,15.3 -0.8,3.5 -1.8,6.8 -2.8,9.7 0.2,-3.3 0.6,-7 1.3,-10.9 1,-5.4 2.3,-10.1 3.7,-14.1 z"
+       class="st4" /></g></svg>
